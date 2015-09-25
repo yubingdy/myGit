@@ -8,3 +8,4 @@ Created by Yu Bing
 =======
 添加了新的分支feature1
 >>>>>>> feature1
+xin fen zhi dew
