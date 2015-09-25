@@ -8,4 +8,10 @@ Created by Yu Bing
 =======
 添加了新的分支feature1
 >>>>>>> feature1
+<<<<<<< HEAD
 xin fen zhi dew ddd
+另一个克隆
+=======
+xin fen zhi dew ddd
+另一个克隆
+>>>>>>> b7e340f20087b511d25d5e88791ac891ec4da2a8
